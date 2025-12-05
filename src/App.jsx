@@ -218,7 +218,7 @@ function App() {
               placeholder="••••••"
             />
             <button onClick={handleUnlock}>Unlock</button>
-            <p className="hint">Hint: Date we matched on bumble.jsx</p>
+            <p className="hint">Hint: Date we matched on bumble</p>
             {lockError && <p className="error-text">{lockError}</p>}
           </div>
         </div>
