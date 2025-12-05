@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 
 // ======= CONFIG: CHANGE THESE ======= //
-const SECRET_PASSCODE = "ourlove2025"; // change this
+const SECRET_PASSCODE = "051225"; // change this
 const PARTNER1_NAME = "Arjun";
 const PARTNER2_NAME = "Mahi";
 
